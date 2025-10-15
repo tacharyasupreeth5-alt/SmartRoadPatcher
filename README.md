@@ -27,4 +27,4 @@ Road cracks and potholes lead to accidents, delays, and costly repairs. We wante
 - AI/ML crack classification
 - Real-time mapping and dashboards
 - Field testing and scaling
-- Pilot deployment with civic authorities
+- Pilot deployment with civic authorities.
